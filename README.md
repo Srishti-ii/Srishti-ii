@@ -113,19 +113,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Srishti-ii&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-ii&layout=compact&theme=dark&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Srishti-ii&show_icons=true&theme=radical&hide_border=true"
+    alt="Srishti's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Srishti-ii&layout=compact&theme=radical&hide_border=true"
+    alt="Srishti's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
