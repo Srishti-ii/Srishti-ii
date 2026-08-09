@@ -1,11 +1,10 @@
-
 <p align="center">
-  <img
-    src="./banner.png"
-    width="100%"
-    alt="Coding Banner"
-  />
+  <img src="./banner.gif" width="100%" alt="Profile Banner">
 </p>
+
+<h1 align="center">
+  👋 Hi, I'm Srishti!
+</h1>
 
 <br>
 
