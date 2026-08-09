@@ -118,6 +118,7 @@
     alt="Srishti-ii GitHub Stats"
   />
 </p>
+<p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=Srishti-ii&layout=compact&theme=radical&hide_border=true"
     alt="Srishti's Top Languages"
