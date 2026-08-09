@@ -114,10 +114,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Srishti-ii&show_icons=true&theme=radical&hide_border=true"
-    alt="Srishti's GitHub Stats"
-    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Srishti-ii&show_icons=true&theme=radical&hide_border=true"
+    alt="Srishti-ii GitHub Stats"
   />
+</p>
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=Srishti-ii&layout=compact&theme=radical&hide_border=true"
     alt="Srishti's Top Languages"
