@@ -51,8 +51,11 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/srishti-srivastava-021994343">
-<img src="https://img.shields.io/badge/LinkedIn-7CFFB2?style=for-the-badge&logo=linkedin&logoColor=black" />
+<a href="https://www.linkedin.com/in/srishti-srivastava-021994343/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-7CFFB2?style=for-the-badge&logo=linkedin&logoColor=black"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://github.com/Srishti-ii">
@@ -112,13 +115,15 @@
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Srishti-ii&show_icons=true&theme=dark&hide_border=true&title_color=7CFFB2&icon_color=7CFFB2&text_color=ffffff"
-height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Srishti-ii&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
+  alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-ii&layout=compact&theme=dark&hide_border=true&title_color=7CFFB2&text_color=ffffff"
-height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti-ii&layout=compact&theme=dark&hide_border=true"
+  height="180"
+  alt="Top Languages"
 />
 
 </p>
@@ -130,7 +135,8 @@ height="180"
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=Srishti-ii&theme=dark&hide_border=true&ring=7CFFB2&fire=7CFFB2&currStreakLabel=7CFFB2"
+  src="https://streak-stats.demolab.com?user=Srishti-ii&theme=dark&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </p>
