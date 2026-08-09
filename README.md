@@ -181,7 +181,7 @@ width="100%"
 <p align="center">
 
 <img
-src="https://raw.githubusercontent.com/Srishti-ii/Srishti-ii/output/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/Srishti-ii/Srishti-ii/gh-pages/github-contribution-grid-snake-dark.svg"
 alt="GitHub Contribution Snake"
 />
 
